@@ -1,0 +1,116 @@
+.maindiv3{
+    height:790px;
+    position: relative;
+}
+.maindiv3 .title{
+    position: absolute;
+    left: 110px;
+    top:255px;
+    width: 410px;
+    height: 270px;
+}
+.maindiv3 .title p{
+    font-weight: 700;
+    font-size: 55px;
+}
+.q1{
+    background-color: white;
+    width: 650px;
+    height: 137px;
+    position: absolute;
+    left: 480px;
+    top: 174px;
+    border-radius: 10px;
+}
+
+
+ .sub{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    margin-top: 20px;
+    transition: 0.4s;
+}
+.q1 .sub p{
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.sub p{
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.sub button{
+    margin-right: 17px;
+    width: 24px;
+    height: 24px;
+    border-style: hidden;
+    background-color: white;
+}
+
+
+
+.panel p{
+    margin-left: 30px;
+    width: 608px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.q1 .active .panel:hover{
+    max-height: 48px;
+}
+
+/* .q1 p{
+    margin-left: 30px;
+    width: 608px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 16px;
+} */
+.q2{
+    background-color: white;
+    position: absolute;
+    top: 327px;
+    left: 480px;
+    width: 650px;
+    height: 70px;
+    border-radius: 10px;
+}
+.q3{
+    background-color: white;
+    position: absolute;
+    top: 413px;
+    left: 480px;
+    width: 650px;
+    height: 70px;
+    border-radius: 10px;
+}
+.q4{
+    background-color: white;
+    position: absolute;
+    top: 499px;
+    left: 480px;
+    width: 650px;
+    height: 70px;
+    border-radius: 10px;
+}
+.q5{
+    background-color: white;
+    position: absolute;
+    top: 585px;
+    left: 480px;
+    width: 650px;
+    height: 70px;
+    border-radius: 10px;
+}
+.active{
+    
+}
+.pannel{
+    display: block;
+}
+.sub1{
+
+}

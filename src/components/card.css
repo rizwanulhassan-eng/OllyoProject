@@ -1,0 +1,90 @@
+.content{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-auto-rows: 250px;
+    /* padding: 32px; */
+    gap: 15px;
+    background-color: #F5F8FF
+}
+
+
+.logoofsun{
+    
+    height: 44px;
+    width: 44px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoofsun i{
+    height: 16px;
+    width: 13.86px;
+}
+
+.logoHeading{
+    font-size: 19.77px;
+    font-weight: 600;
+}
+.logoparagraph{
+    color: #8987A1;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+.card4{
+   height:517px;
+   display:flex;
+   flex-direction: column;
+   align-content: flex-start;
+   gap:41px;
+}
+.card5{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    height: 252px;
+    width:524px;
+    padding:25px 20px 25px 20px;
+}
+
+.sameCard{
+    
+    height: 252px;
+    width:250px;
+    padding: 25px 20px 20px 25px;
+}
+
+.card5maindiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card5columnsmerged{
+    width:231px;
+}
+.card5columnsmerged1{
+    /* margin: 9px ; */
+    color: white;
+    height: 205px;
+    width:214px;
+    border-radius: 5px;
+    background-color: #5B54FF;
+    font-size: 59.15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card4{
+    padding: 25px 20px 20px 25px;
+}
+
+.card4image{
+    width:207px;
+    height:237px;
+    margin-bottom: 20px;
+    
+}
+
+

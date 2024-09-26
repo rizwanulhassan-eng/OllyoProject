@@ -1,0 +1,27 @@
+.mainDiv {
+    
+    width: 764px;
+    height: 315px;
+    margin: auto;
+    margin-bottom: 155px;
+
+}
+
+.mainParagraph {
+    font-weight: 700;
+    font-size: 73.34px;
+    text-align: center;
+    color: #252432;
+}
+
+.mainDiv button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 211px;
+    border-radius: 10px;
+    background-color: #252432;
+    color: white;
+    margin: 16px auto;
+}

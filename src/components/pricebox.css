@@ -1,0 +1,192 @@
+.maindiv2{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 85px;
+    
+    margin-top: 86px;
+    height: 505px;
+}
+.subdiv1 .title{
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    width: 200px;
+    height: 75px;
+    margin-bottom: 16px;
+}
+.subdiv1 .description{
+    width: 282px;
+    height: 63px;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 113px;
+}
+
+.subdiv1 .box{
+    width: 387px;
+    height: 238px;
+    background-color: white;
+    border-radius: 20px;
+    
+}
+.subdiv1 .box p{
+    width: 243px;
+    height: 82px;
+    font-size: 34.07px;
+    font-weight: 700;
+    margin-left: 26px;
+    margin-top: 37px;
+}
+.subdiv1 .box button{
+    background-color: rgba(78, 71, 255, 1);
+    width:335px;
+    height: 50px;
+    border-radius: 10px;
+    border-style: hidden;
+    margin-top: 31px;
+    margin-left: 26px;
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+}
+.subdiv2{
+    background-color: white;
+    border-radius: 20px;
+    width:540px;
+}
+.subdiv2 .title{
+    height: 36px;
+    width:271px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 43px;
+    margin-left: 50px;
+    margin-bottom: 31px;
+}
+
+.subdiv2 .description{
+    width: 383px;
+    height: 42px;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+.subdiv2 .boxes{
+    position: relative;
+    height: 111px;
+    margin-bottom: 55px;
+}
+.subdiv2 .boxes .box1{
+    position: absolute;
+    left: 50px;
+}
+.boxes p{
+    width: 125px;
+    height: 25px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.subdiv2 .boxes .box1 .one{
+    display: flex;
+    justify-content: space-between;
+    height: 25px;
+    width: 162px;
+    margin-bottom: 20px;
+}
+.subdiv2 .boxes .box1 .two{
+    display: flex;
+    justify-content: space-between;
+    height: 25px;
+    width: 162px;
+    margin-bottom: 19px;
+}
+.subdiv2 .boxes .box1 .three{
+    display: flex;
+    justify-content: space-between;
+    height: 25px;
+    width: 162px;
+}
+.subdiv2 .boxes .box2{
+    position: absolute;
+    left:290px
+}
+.subdiv2 .boxes .box2 .one{
+    display: flex;
+    justify-content: space-between;
+    height: 25px;
+    width: 162px;
+    margin-bottom: 20px;
+}
+.subdiv2 .boxes .box2 .two{
+    display: flex;
+    justify-content: space-between;
+    height: 25px;
+    width: 162px;
+    margin-bottom: 20px;
+}
+.subdiv2 .boxes .box2 .three{
+    display: flex;
+    justify-content: space-between;
+    height: 25px;
+    width: 162px;
+}
+.tikbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 100%;
+    width:24px;
+    height: 24px;
+    border-color: #252432;
+
+}
+.tikbox i{
+    font-size: 15px;
+    color: #252432;
+}
+.box3{
+    height:127px;
+    width:500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(245, 248, 255, 1);
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
+}
+.ones{
+    display: flex;
+    
+}
+.box3 .ones .title{
+    width: 214px;
+    height: 72px;
+    font-size: 60px;
+    font-weight: 700;
+    margin-left: 42px;
+    margin-bottom: 27px;
+    margin-top: 0px;
+}
+.box3 .ones .subtitle{
+    margin-bottom: 0px;
+    margin-top: 43px;
+    width: 37px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.box3 button{
+    border: 0;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+}
+.box3 .twos{
+    margin-right: 46px;
+    
+}

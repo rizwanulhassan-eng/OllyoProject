@@ -1,0 +1,85 @@
+.maindiv1{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+
+}
+.subdiv{
+    width: 409px;
+    height: 83px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+    border-radius: 22px;
+    
+}
+
+.imagediv{
+    width:204px;
+    height:83px;
+    position: relative;
+    
+}
+
+.imgposition1{
+    position:absolute;
+    left: 45px;
+    top:20px;
+}
+.imgposition2{
+    position:absolute;
+    left: 73px;
+    top:20px;
+    
+}
+.imgposition3{
+    position:absolute;
+    left: 103px;
+    top:20px;
+    
+}
+.imgposition4{
+    position:absolute;
+    left: 130px;
+    top:20px;
+}
+.imgposition5{
+    position:absolute;
+    left: 160px;
+    top:20px;
+}
+.reviewdiv{
+    width:204px;
+    height:83px;
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+}
+.reviewdivpara p{
+    margin-bottom: 0px;
+    position:absolute;
+    top:18px
+}
+.stars i{
+    color:  #F7C33D;
+    font-size: 10px;
+}
+.stars{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top:46px;
+    width: 89px;
+    height: 12.71px;
+    gap: 2px;
+}
+.img1{
+    height: 37px;
+    width: 37px;
+    border-radius: 50%;
+}

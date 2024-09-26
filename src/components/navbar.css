@@ -1,0 +1,92 @@
+header{
+    background-color: #F5F8FF;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.login{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 5px; 
+    gap: 19px;
+}
+
+.login p{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    color: #8987A1;
+}
+
+.login button{
+    width: 132px;
+    height: 48px;
+    background-color: rgba(78, 71, 255, 1);
+    
+    color:white;
+    gap: 0px;
+    border-radius: 10px;
+    border:0;
+    opacity: 0px;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.nav-links{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 48px;
+    padding: auto;
+    margin: auto 0px;
+    list-style: none;
+
+}
+
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 499px;
+    height:68px;
+    background-color: rgba(255, 255, 255, 0.6);
+    border: 1px solid white;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+nav a{
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #8987A1;
+}
+
+
+
+.logo {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: rgb(13, 13, 13); */
+    gap:12.43px;
+
+}
+
+.logo p{
+    font-size: larger;
+    margin: auto;
+    font-weight: 700;
+}
+.thundericon{
+    height: 37.9px;
+    width:37.9px;
+    border-radius: 10.26px;
+    background-color:black;
+    color: white;
+    padding:8px 12px;
+}

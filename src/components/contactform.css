@@ -1,0 +1,144 @@
+.maindiv4{
+    position:relative;
+    height: 1500px;
+}
+.maindiv4 .title{
+    width: 505px;
+    height: 72px;
+    font-size: 55px;
+    font-weight: 700;
+    position: absolute;
+    left: 300px;
+    top: 65px;
+}
+.formbox{
+    position: absolute;
+    left: 232px;
+    top: 247px;
+    width: 676px;
+}
+ .input-box{
+    width: 676px;
+}
+.input-box input{
+    width: 600px;
+    margin-bottom: 16px;
+    height: 70px;
+    background-color: #F5F8FF;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #D6DDED;
+}
+.input-box p{
+    font-size: 18px;
+    font-weight: 700;
+}
+.input-box .message{
+    height: 200px;
+}
+input::placeholder{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.formbox button{
+    background-color: rgba(78, 71, 255, 1);
+    width: 600px;
+    border-radius: 10px;
+    height: 62px;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    border-style: hidden;
+}
+.logo1 {
+    width: 129px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: rgb(13, 13, 13); */
+    gap:12.43px;
+
+}
+
+.logo1 p{
+    font-size: larger;
+    margin: auto;
+    font-weight: 700;
+}
+.thundericon1{
+    height: 37.9px;
+    width:37.9px;
+    border-radius: 10.26px;
+    background-color:black;
+    color: white;
+    padding:8px 12px;
+}
+.footerbox{
+    position: absolute;
+    top:900px;
+    left: 20px;
+    width: 1000px;
+    height: 398px;
+    border-radius: 40px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    
+}  
+.footerbox .subbox1{
+    margin-left: 72px;
+    margin-top: 87px;
+}
+.footerbox .subbox1 .logo1{
+    margin-bottom: 37px;
+}
+.footerbox .subbox1 .titles{
+    font-size:16px;
+    font-weight: 400;
+    width: 356px;
+    height: 72px;
+    margin-bottom: 61px;
+}
+.lovebox{
+    display: flex;
+    justify-content: space-between;
+    width: 295px;
+}
+.lovebox i{
+    margin-top: 5px;
+}
+.subbox2{
+    margin-top: 155px;
+    margin-right: 72px;
+}
+.subbox2 .pages{
+    display: flex;
+    justify-content: space-between;
+    gap: 48px;
+    width: 401px;
+    margin-bottom: 87px;
+}
+.links{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 252px;
+    margin-left: 150px;
+}
+.links li{
+    width: 48px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(245, 248, 255, 1);
+    border-radius: 100%;
+}
+.links li a{
+    color: rgba(21, 21, 21, 1);
+    background-color: rgba(245, 248, 255, 1);
+    text-decoration: none;
+    
+}
